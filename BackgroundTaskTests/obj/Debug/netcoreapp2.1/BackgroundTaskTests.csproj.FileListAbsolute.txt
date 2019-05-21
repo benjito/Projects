@@ -1,0 +1,14 @@
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\BackgroundTaskTests.deps.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\BackgroundTaskTests.runtimeconfig.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\BackgroundTaskTests.runtimeconfig.dev.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\BackgroundTaskTests.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\bin\Debug\netcoreapp2.1\BackgroundTaskTests.pdb
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.csprojAssemblyReference.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.csproj.CoreCompileInputs.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.AssemblyInfoInputs.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.AssemblyInfo.cs
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTaskTests\obj\Debug\netcoreapp2.1\BackgroundTaskTests.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackgroundTasks</name>
+    </assembly>
+    <members>
+        <member name="M:BackgroundTasks.Controllers.TestController.AddMessage">
+             <summary>
+             Queues a request
+             </summary>
+             <remarks>
+            Queue a request
+             </remarks>
+             <response code="200">Returns success</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.deps.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.runtimeconfig.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.runtimeconfig.dev.json
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.csprojAssemblyReference.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.csproj.CoreCompileInputs.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.RazorAssemblyInfo.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.RazorAssemblyInfo.cs
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.AssemblyInfoInputs.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.AssemblyInfo.cs
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.RazorTargetAssemblyInfo.cache
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.pdb
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.dll
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\obj\Debug\netcoreapp2.1\BackgroundTasks.pdb
+C:\Users\Ben.Clarke\sandbox\BackgroundTasks\bin\Debug\netcoreapp2.1\BackgroundTasks.xml
